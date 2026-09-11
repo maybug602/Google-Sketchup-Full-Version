@@ -242,4 +242,4 @@ This repository serves as the official landing page for Google SketchUp. The sof
 **Get the most recent version of Google SketchUp today!**
 
 ---
-**Last updated:** 2026-09-11 10:08:07 UTC
+**Last updated:** 2026-09-11 14:40:13 UTC
